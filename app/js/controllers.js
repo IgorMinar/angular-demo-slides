@@ -47,7 +47,6 @@ function PresentationCntrl($route, $window) {
 
   slide('3_angular/00', 'increase the abstraction');
   slide('3_angular/01', 'XHR');
-  slide('3_angular/02', 'Controllers and DI');
 
   slide('4_testing/00', 'Testing Behavior');
   slide('4_testing/01', 'How Testable?');
